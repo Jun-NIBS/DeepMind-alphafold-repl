@@ -4,6 +4,8 @@ This is the code for [this](https://youtu.be/cw6_OP5An8s) video on Youtube by Si
 
 # Coding Challenge - Due Date, Feb, 20 at 12 PM PST - Replicate AlphaFold as best you can. Post your github links in the comment section of the video! I'll give a shoutout to the top 2 entries. I'll send the winner a brand new Nvidia Titan RTX GPU. You can also DM @Sirajraval on twitter or send it to hello@sirajraval.com  , use the tag #alphafoldchallenge on social media. 
 
+This challenge is open to anyone, anywhere in the world. 
+
 ### I'm looking for
 
 - Good Documentation 
